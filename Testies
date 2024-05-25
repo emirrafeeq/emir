@@ -1,0 +1,2 @@
+_G.HOHO_SERVER_ID = {4442272183, "HOHO-HUB_mzt6BL3lZLtiXLd5yz9PPlKiq4t7K2KwX2tlJLtgTlKVOlKwP"}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
